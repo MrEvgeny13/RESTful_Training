@@ -19,7 +19,7 @@ For example, the will be used **Postman**.
 example:
 
 {
-"name" : "Evgeny",
+"name" : "Evgeny", \n
 "email" : "mr.evgeny13@gmail.com",
 "phone" : "+7 (999) 999-99-99"
 }
