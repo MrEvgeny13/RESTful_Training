@@ -1,5 +1,5 @@
 # RESTful_Training
-RESTful API training project based on Spring Boot with CRUD operations
+RESTful API training project based on Spring Boot with CRUD operations.
 
 **Startup instruction:**
 
