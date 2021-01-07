@@ -1,6 +1,6 @@
-# RESTful_Training
-
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a419ef5a36d9449f9ebd00135777d2d5)](https://app.codacy.com/gh/MrEvgeny13/RESTful_Training?utm_source=github.com&utm_medium=referral&utm_content=MrEvgeny13/RESTful_Training&utm_campaign=Badge_Grade)
+
+# RESTful_Training
 
 RESTful API training project based on Spring Boot with CRUD operations.
 
