@@ -7,7 +7,7 @@ RESTful API training project based on Spring Boot with CRUD operations.
 
 **Startup instruction:**
 
-For example, the will be used **Postman**.
+For example, will be used the **Postman**.
 
 1) Download and install Postman application;
 
