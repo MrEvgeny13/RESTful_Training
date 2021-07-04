@@ -15,7 +15,7 @@
     <description>REST example project from JavaRush</description>
 
     <properties>
-        <java.version>11</java.version>
+        <java.version>15</java.version>
     </properties>
 
     <dependencies>
