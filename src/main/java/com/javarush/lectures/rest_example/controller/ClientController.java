@@ -29,7 +29,7 @@ public class ClientController {
     public ResponseEntity<List<Client>> read() {
         final List<Client> clients = clientService.readAll();
 
-        return clients != null &&  !clients.isEmpty()
+        return clients != null && !clients.isEmpty()
                 ? new ResponseEntity<>(clients, HttpStatus.OK)
                 : new ResponseEntity<>(HttpStatus.NOT_FOUND);
     }
